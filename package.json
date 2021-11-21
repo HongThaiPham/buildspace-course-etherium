@@ -1,0 +1,8 @@
+{
+  "name": "my-wave-portal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HongThaiPham/buildspace-course-etherium.git",
+  "author": "Leo Pham",
+  "license": "MIT"
+}
